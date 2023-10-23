@@ -1,0 +1,31 @@
+author1:
+  name:              BGAB
+  email:             sees7875@naver.com
+
+  about:             |
+    BGAB의 개발과 관련한 모든 이야기를 다루는 블로그입니다.
+
+  picture:
+    path:            ../assets/img/blog/128x128_brand_logo.jpg
+
+    srcset:
+      1x:            ../assets/img/blog/128x128_brand_logo.jpg
+      2x:            ../assets/img/blog/128x128_brand_logo.jpg
+
+  social:
+    github:            BGAB0322
+
+# Another author (optional)
+author2:
+  name:              <firtname> <lastname>
+  email:             <mail@domain.tld>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
