@@ -209,7 +209,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: <meta name="google-site-verification" content="4bS2KKV5U9oCgJq9kt95-4TQdgehDDUrDP73ya4US1c" />
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
