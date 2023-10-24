@@ -3,7 +3,6 @@ layout: list
 type: category
 title: C / C++
 slug: c-lang
-# menu: true
 sidebar: true
 order: 2
 description: >
