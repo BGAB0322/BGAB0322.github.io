@@ -1,8 +1,8 @@
 ---
-layout: projects
+layout: list #projects
 title: Projects
 show_collection: projects
-odrder: 4
+order: 4
 description: >
   All the Projects
 no_groups: true
