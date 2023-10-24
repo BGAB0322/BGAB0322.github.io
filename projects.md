@@ -1,6 +1,5 @@
 ---
-layout: list #projects
-type: category
+layout: projects
 title: Projects
 show_collection: projects
 order: 4
