@@ -97,6 +97,10 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+      path:            googleae4af46f52b5c0a3.html
+    values:
+      sitemap:         false
 
 kramdown:
   math_engine:         katex
