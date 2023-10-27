@@ -4,6 +4,7 @@ layout:   post
 category: c-lang
 tags:     code
 sitemap:  true
+comments: true
 image: /assets/img/blog/2023-07-17/thumnail_c-lang.png
 description: >
   루프 종료 예제
