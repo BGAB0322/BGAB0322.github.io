@@ -1,9 +1,11 @@
 ---
 layout: about
 image: /assets/img/blog/bgab_logo.png
+hide_description: true
+sidebar: true
+order : 1
 description: >
   About Code Factory
-hide_description: true
 ---
 
 # About
