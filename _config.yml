@@ -150,11 +150,11 @@ hydejack:
   hide_last_modified:  false
 
   dark_mode:
-    always:            false    
-    dynamic:           true
-    surise:            6
-    sunset:            18
-    icon:              true
+    dynamic: true
+    sunrise: 6
+    sunset:  18
+    icon:    true
+    always:  false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
