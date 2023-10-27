@@ -110,7 +110,7 @@ kramdown:
 #   provider: utterances
   
 # pages with `comments: true` in the front matter.
-disqus:     BGAB0322
+disqus:     b_ga_b
 #   comments:  true
 #   shortname: 'codefactory'
 
