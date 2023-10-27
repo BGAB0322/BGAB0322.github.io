@@ -111,7 +111,7 @@ kramdown:
   
 # pages with `comments: true` in the front matter.
 disqus: BGAB0322
-  comments:  true
+  # comments:  true
   shortname: codefactory
 
 # Setting a tinyletter username will enable the newsletter subscription box.
