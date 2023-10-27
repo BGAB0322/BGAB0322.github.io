@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Linux와 Window에서 Ctrl + C로 루프 종료 예제 / Linux signal / Window conio
+layout:   post
 category: c-lang
-tags: code
+tags:     code
+sitemap:  true
+comments: true
 image: /assets/img/blog/2023-07-17/thumnail_c-lang.png
 description: >
   루프 종료 예제
-# sitemap: false
 ---
 
 * this unordered seed list will be replaced by toc as unordered list
