@@ -93,6 +93,10 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+        type:          posts
+      values:
+        comments:      true
 
 kramdown:
   math_engine:         katex
@@ -110,9 +114,9 @@ kramdown:
 #   provider: utterances
   
 # pages with `comments: true` in the front matter.
-disqus:
-  comments:  true
-  shortname: 'codefactory'
+# disqus:
+#   comments:  true
+#   shortname: 'codefactory'
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
