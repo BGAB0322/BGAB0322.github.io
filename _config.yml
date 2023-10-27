@@ -23,10 +23,10 @@ menu:
     url:               /c-lang/
   - title:             ROS
     url:               /ros/
-  - title:             Projects
-    url:               /projects/
-  - title:             Resume
-    url:               /resume/
+  # - title:             Projects
+  #   url:               /projects/
+  # - title:             Resume
+  #   url:               /resume/
   - title:             Documentation
     url:               /docs/
 
