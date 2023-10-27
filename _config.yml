@@ -62,6 +62,10 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   - scope:
+      type: posts
+    values:
+      comments: true
+  - scope:
       path:            hyde/
     values:
       accent_color:    rgb(38,139,210)
@@ -110,7 +114,7 @@ kramdown:
 #   provider: utterances
   
 # pages with `comments: true` in the front matter.
-disqus:     b_ga_b
+disqus:     BGAB0322
 #   comments:  true
 #   shortname: 'codefactory'
 
