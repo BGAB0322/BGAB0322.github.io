@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BGAB'S CODE FACTORY
-sitemap: false
+sitemap: true
 ---
 
 <!--author-->
