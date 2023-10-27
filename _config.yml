@@ -110,9 +110,9 @@ kramdown:
 #   provider: utterances
   
 # pages with `comments: true` in the front matter.
-disqus:
-  comments:  true
-  shortname: codefactory
+disqus: BGAB
+  # comments:  true
+  # shortname: codefactory
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
