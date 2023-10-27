@@ -93,10 +93,6 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-        type:          posts
-      values:
-        comments:      true
 
 kramdown:
   math_engine:         katex
@@ -114,7 +110,7 @@ kramdown:
 #   provider: utterances
   
 # pages with `comments: true` in the front matter.
-# disqus:
+disqus:     BGAB0322
 #   comments:  true
 #   shortname: 'codefactory'
 
