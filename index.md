@@ -4,44 +4,23 @@ title: Thank You!
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+# About
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+<!--author-->
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## CODE FACTORY?
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+**프로그램 직군에 종사해보고 싶다는 목표 하나**로 시작한 개발자, 생각 이상으로 쉽지가 않습니다.
+그래도 부족한 나의 경험을 하나씩 정리해 글로 정리해보려고 합니다.
+{:.lead}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+1. this list will be replaced by the toc
+{:toc .large-only}
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+![Screenshot](assets/img/blog/about_first_image.png){:.lead width="1920" height="1080" loading="lazy"}
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+하필... 처음 맞이한 MCU 보드로 시작했던 코딩, 학기 동안에는 결과물을 만들려고 했던 과거의 흔적.
+{:.figcaption}
+
+**'개발자'**로 살아남기
+{:.lead}
