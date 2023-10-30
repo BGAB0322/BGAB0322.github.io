@@ -2,7 +2,7 @@
 layout:   post
 title:    ROS2 토픽 데이터 분석 및 엑셀 파일로 저장하기 (by RPLiDAR A1)
 category: ros
-image:    /assets/img/blog/2023-02-01/thumnail_ros.png ##
+image:    /assets/img/blog/2023-02-01/thumnail__ros.png
 ---
 
 * this unordered seed list will be replaced by toc as unordered list
