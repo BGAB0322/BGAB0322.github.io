@@ -108,4 +108,4 @@ Ctrl + C에 대한 handler는 window.h 헤더에 있는 setConsoleCtrlHandler()�
 
 위의 코드는 아래의 레포지토리에서 사용하실 수 있습니다!
 
-https://github.com/BGAB0322/loop_exit_simple_code
+[Loop Exit Repository](https://github.com/BGAB0322/loop_exit_simple_code "loop exit 레포지토리")

@@ -1,9 +1,8 @@
 ---
-layout: post
-title: ROS2 Octomap Server2 빌드 및 설치 방법
+layout:   post
+title:    ROS2 Octomap Server2 빌드 및 설치 방법
 category: ros
-image: /assets/img/blog/2023-06-05/thumnail_ros.png
-# sitemap: false
+image:    /assets/img/blog/2023-06-05/thumnail_ros.png
 ---
 
 * this unordered seed list will be replaced by toc as unordered list

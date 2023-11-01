@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Window 10에서 WSL / Ubuntu 설치 및 사용 방법
+layout:   post
+title:    Window 10에서 WSL / Ubuntu 설치 및 사용 방법
 category: ros
-image: /assets/img/blog/2022-12-06/thumnail_ros.png
-# hide_description: true
-# sitemap: false
+image:    /assets/img/blog/2022-12-06/thumnail_ros.png
 ---
 
 * this unordered seed list will be replaced by toc as unordered list
