@@ -82,7 +82,7 @@ ros2 interface show sensor_msgs/msg/LaserScan
 ros2 topic echo /scan
 ~~~
 
-![그림11](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-012023-02-01/topic_to_excel_11.png?raw=true)
+![그림11](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-01/topic_to_excel_11.png?raw=true)
 
 어쨌든 잠깐 echo 실행을 멈추고 거리데이터를 드래그해서 편집기에 붙여넣기 해보았습니다.
 
