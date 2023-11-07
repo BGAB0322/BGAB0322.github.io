@@ -119,7 +119,7 @@ RPLiDAR A1의 스펙을 확인해보면 이는 측정거리임을 알 수 있는
 
 그럼 데이터 구성이 어떻게 되는지 대략 파악했으니 시작, 끝나는 지점을 셀 삽입으로 분리해놓고 거리데이터들을 쉽게 드래그할 수 있도록 정리해보았습니다.
 
-![그림18](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-01/topic_to_excel_18.png?raw=true) ![그림19](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-01/topic_to_excel_19.png?raw=true)
+![그림18](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-01/topic_to_excel_18.png?raw=true) | ![그림19](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-02-01/topic_to_excel_19.png?raw=true)
 
 한 줄 전체를 드래그해서 살펴보니 데이터 갯수가 360개입니다.
 
