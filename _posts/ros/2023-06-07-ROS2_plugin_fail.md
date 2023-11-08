@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    ROS2 [ERROR]: PluginlibFactory: The plugin for class 'rviz_common/Time' failed to load. 해결 방법
+title:    ROS2 [ERROR] PluginlibFactory The plugin for class 'rviz_common/Time' failed to load. 해결 방법
 category: ros
 image:    /assets/img/blog/2023-06-07/thumnail_ros.png
 ---
