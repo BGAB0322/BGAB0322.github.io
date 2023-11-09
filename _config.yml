@@ -23,6 +23,8 @@ menu:
     url:               /c-lang/
   - title:             ROS
     url:               /ros/
+  - title:             ARDUINO
+    url:               /arduino/
   # - title:             Projects
   #   url:               /projects/
   # - title:             Resume
