@@ -1,10 +1,10 @@
 ---
-layout: list
-type: category
-title: ARDUINO
-slug: arduino
+layout:  list
+type:    category
+title:   ARDUINO
+slug:    arduino
 sidebar: true
-order: 4
+order:   4
 description: >
   All About Arduino
 ---
