@@ -3,7 +3,6 @@ layout: post
 title: ROS TF tree 보는 방법 / 저장 방법
 category: ros
 image: /assets/img/blog/2023-04-10/thumnail_ros.png
-# sitemap: false
 ---
 
 * this unordered seed list will be replaced by toc as unordered list

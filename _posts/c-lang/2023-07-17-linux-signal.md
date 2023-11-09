@@ -3,8 +3,6 @@ title: Linux와 Window에서 Ctrl + C로 루프 종료 예제 / Linux signal / W
 layout:   post
 category: c-lang
 tags:     code
-sitemap:  true
-comments: true
 image: /assets/img/blog/2023-07-17/thumnail_c-lang.png
 description: >
   루프 종료 예제
