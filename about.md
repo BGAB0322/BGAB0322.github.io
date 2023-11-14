@@ -12,20 +12,16 @@ description: >
 
 <!--author-->
 
+1. this list will be replaced by the toc
+{:toc .large-only}
+
+Hi there👋I'm a Software Engineer using C++ and ROS.
+
 ## My Goal
 
 ~~**Getting a job in Programming**~~
 
 What is next?
-
-1. this list will be replaced by the toc
-{:toc .large-only}
-
-<div align="center">
-  <img src="https://github.com/BGAB0322/BGAB0322/blob/main/_image/my_logo.gif" width="300" heigth="300">
-</div>
-
-Hi there👋I'm a Software Engineer using C++ and ROS.
 
 ## 📈 GitHub Stats
 
