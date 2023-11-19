@@ -5,6 +5,9 @@ category: ros
 image:    /assets/img/blog/2023-05-02/thumnail_ros.png
 ---
 
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ROS2를 일반적으로 사용할 수 있는 Ubuntu와 제한된 하드웨어 환경에서 작업을 하다 보면, 갖가지 문제에 시달렸습니다.
 
 그 중 하나는 ROS2CLI의 ros2 node list나 ros2 topic list 같은 일반적인 명령어를 요구할 때, logging 데이터를 불러오는데 실패했다고 에러가 뜨는 상황이었습니다.
