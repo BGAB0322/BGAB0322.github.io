@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    Boost 라이브러리란 무엇인가 | Boost 라이브러리 윈도우 설치
+title:    Boost 라이브러리란 무엇인가 | Boost 라이브러리 윈도우 설치 및 사용 방법
 category: c-lang
-image:    /assets/img/blog/2023-11-22/thumnail_c-lang.png
+image:    /assets/img/blog/2023-11-22/thumbnail_c-lang.png
 ---
 
 * this unordered seed list will be replaced by toc as unordered list
