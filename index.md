@@ -2,6 +2,8 @@
 layout: page
 title: BGAB'S CODE FACTORY
 sitemap: true
+selected_posts:
+    - /blog/2023-04-06-ROS-CMAKE_1/
 ---
 
 ## My Goal
@@ -11,3 +13,4 @@ sitemap: true
 What is next?
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbgab0322.github.io%2Fbgab.github.io%2F&count_bg=%23FB2D2D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
