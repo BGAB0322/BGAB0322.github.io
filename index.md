@@ -2,8 +2,6 @@
 layout: page
 title: BGAB'S CODE FACTORY
 sitemap: true
-selected_posts:
-    - /blog/2023-04-06-ROS-CMAKE_1/
 ---
 
 ## My Goal
