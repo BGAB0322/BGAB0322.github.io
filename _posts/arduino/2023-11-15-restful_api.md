@@ -18,11 +18,11 @@ RESTful API를 활용하여 클라이언트 또는 서버를 통해 데이터를
 
 우선 API라는 용어부터 짚어봐야 할 것 같습니다.
 
-**API** 👉 Application Programming Interface의 약자로 애플리케이션이나 디바이스가 서로 간에 연결하여 통신할 수 있는 방법을 정의하는 규칙 세트
+* **API** 👉 **"Application Programming Interface의 약자로 애플리케이션이나 디바이스가 서로 간에 연결하여 통신할 수 있는 방법을 정의하는 규칙 세트"**
 
 그럼 REST란 용어의 의미는 무엇일까요?
 
-**REST** 👉 REpresentational State Transer의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고 받는 모든 것
+* **REST** 👉 **"REpresentational State Transer의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고 받는 모든 것"**
 
 REST라는 API 작동 방식에 대한 조건을 부과하는 소프트웨어 아키텍처로 이러한 스타일을 따르는 API를 일컬어 'REST API'라고 부르며 REST 아키텍처를 구현하는 웹 서비스를 'RESTful API '라고 합니다. 
 
