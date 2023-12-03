@@ -17,8 +17,8 @@ author:
   email:             sees7875@naver.com
 
 menu:
-  - title:             About
-    url:               /about/
+  # - title:             About
+  #   url:               /about/
   - title:             C / C++
     url:               /c-lang/
   - title:             ROS
