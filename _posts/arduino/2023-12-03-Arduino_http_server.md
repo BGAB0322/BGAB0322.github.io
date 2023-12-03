@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    아두이노 HTTP 서버 예제
+title:    ESP8266 HTTP 서버 예제
 category: arduino
 image:    /assets/img/blog/2023-12-03/thumbnail_arduino.png
 ---
