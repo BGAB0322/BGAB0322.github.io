@@ -362,7 +362,7 @@ Collection 탭 오른쪽에 별모양 옆에 점 3개, 메뉴를 클릭해보시
 
 클라이언트 예제처럼 배열 0~14까지 값을 쓴 겁니다. 이런 식으로 POST 요청을 작성하시고 GET 요청은 서버 IP와 리소스만 맞추시면 됩니다.
 
-![그림6](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/Arduino_http_server_6.png?raw=true) ![그림7](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_7.png?raw=true) 
+![그림6](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/Arduino_http_server_6.png?raw=true) ![그림7](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/Arduino_http_server_7.png?raw=true) 
 
 위는 POST 요청을 한 뒤(Send) 서버 예제에서 설정한대로 반응상태 코드값이 확인됩니다. OK 사인은 200으로 맞추시는게 맞습니다. 예제는 차이를 보여주기 위해 200, 201, 202로 맞춘 내용이니까요.
 
@@ -376,4 +376,3 @@ POST 요청 2개 다 했으니 이제 GET 요청을 보내서 값을 비교해�
 {:.figcaption}
 
 데이터 변화가 잘 되고 있군요. 다르게 값을 요청해도 반영이 되고 잘 동작 중입니다.
-
