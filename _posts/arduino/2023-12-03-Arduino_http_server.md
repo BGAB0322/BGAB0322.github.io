@@ -324,10 +324,10 @@ if (error_number)
 
 GET() / POST() 단일 / POST() 배열 순으로 200, 201, 202번을 클라이언트에 전달하도록 하였습니다. 이 코드 번호는 아래와 같이 구분되어 사용됩니다.
 
-**1. Informational responses (100 – 199)**
-**2. Successful responses (200 – 299)**
-**3. Redirection messages (300 – 399)**
-**4. Client error responses (400 – 499)**
+**1. Informational responses (100 – 199)**<br>
+**2. Successful responses (200 – 299)**<br>
+**3. Redirection messages (300 – 399)**<br>
+**4. Client error responses (400 – 499)**<br>
 **5. Server error responses (500 – 599)**
 
 더 자세한 내용은 아래의 사이트를 참조하도록 하세요.
