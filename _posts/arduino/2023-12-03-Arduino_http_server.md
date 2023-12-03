@@ -366,8 +366,14 @@ Collection 탭 오른쪽에 별모양 옆에 점 3개, 메뉴를 클릭해보시
 
 위는 POST 요청을 한 뒤(Send) 서버 예제에서 설정한대로 반응상태 코드값이 확인됩니다. OK 사인은 200으로 맞추시는게 맞습니다. 예제는 차이를 보여주기 위해 200, 201, 202로 맞춘 내용이니까요.
 
-![그림8](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_8.png?raw=true) 수정전
-{:.figcaption} ![그림9](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_9.png?raw=true) 수정후 {:.figcaption}
-
 POST 요청 2개 다 했으니 이제 GET 요청을 보내서 값을 비교해보겠습니다.
+
+![그림8](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_8.png?raw=true) 
+수정전
+{:.figcaption} 
+![그림9](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_9.png?raw=true) 
+수정후
+{:.figcaption}
+
+
 
