@@ -38,10 +38,10 @@ image:    /assets/img/blog/2023-11-30/thumbnail_arduino.png
 
 헤더파일은 4가지를 사용합니다. 
 
-* **ESP8266WiFi.h**는 ESP8266 계열 모듈들이 WiFi.begin(), WiFi.status() 등 WiFi 연결에 대응하는 기능들을 사용할 수 있다고 보시면 됩니다.
-* **WiFiClient.h**는 HTTP 클라이언트 동작시(ex. http_client.begin(wifi_cleint, URL))파라미터로 wifi_client 객체가 사용됩니다.
-* **ESP8266HTTPClient.h**는 ESP8266 계열 모듈들이 HTTP 클라이언트 관련한 기능(begin(), addHeader(), POST(), PUT() 등)을 사용하기 위함 입니다.
-* **ArduinoJson.h**은 JSON 형태의 데이터로 변환하기 위해 필요한 라이브러리입니다.
+* **/<ESP8266WiFi.h/>**는 ESP8266 계열 모듈들이 WiFi.begin(), WiFi.status() 등 WiFi 연결에 대응하는 기능들을 사용할 수 있다고 보시면 됩니다.
+* **/<WiFiClient.h/>**는 HTTP 클라이언트 동작시(ex. http_client.begin(wifi_cleint, URL))파라미터로 wifi_client 객체가 사용됩니다.
+* **/<ESP8266HTTPClient.h/>**는 ESP8266 계열 모듈들이 HTTP 클라이언트 관련한 기능(begin(), addHeader(), POST(), PUT() 등)을 사용하기 위함 입니다.
+* **/<ArduinoJson.h/>**은 JSON 형태의 데이터로 변환하기 위해 필요한 라이브러리입니다.
 
 이렇게 4가지를 구성하여 HTTP 클라이언트를 설정하여 JSON 문자열로 데이터를 담아 POST() 요청을 할 것입니다.
 
