@@ -340,4 +340,34 @@ GET() / POST() 단일 / POST() 배열 순으로 200, 201, 202번을 클라이언
 
 ![그림2](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_2.png?raw=true)
 
-바로 포스트맨(Postman)이라는 프로그램을 사용하는 방법입니다.
+바로 포스트맨(Postman)이라는 프로그램을 사용하는 방법입니다. 구글 로그인으로 무료로 사용할 수 있으며 GUI 환경에서 클라이언트 요청 테스트하는데 유용합니다.
+
+아래와 같은 창에서 HTTP 클라이언트 요청을 사용할 수 있습니다.
+
+![그림3](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_3.png?raw=true)
+
+서버의 내용을 수정해보면서 클라이언트도 변경 내용에 따라 따로 따로 코드를 수정하고, 업로드하는 과정 대신에 포스트맨의 GUI 환경을 통해 좀 더 수월하게 테스트를 진행할 수 있습니다.
+
+이미지를 보다시피 서버 예제에 구성해 둔 클라이언트 요청 처리 3가지를 만들어두었습니다.
+
+![그림4](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_4.png?raw=true)
+
+우선 위와 같이 Collection을 먼저 생성해주도록 합니다. \[New\] 버튼을 누르면 중앙에 추가하려는 목록창이 중앙에 뜨는데 \[Collection\]을 클릭하시면 됩니다. 저는 'TEST'로 생성했습니다.
+
+![그림5](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_5.png?raw=true)
+
+Collection 탭 오른쪽에 별모양 옆에 점 3개, 메뉴를 클릭해보시면 request를 추가할 수 있습니다. 1번에는 메서드 유형을 택할 수 있고, 그 옆으로 서버의 IP, 리소스를 입력합니다.
+
+그 다음 바로 아래의 \[Body\] 탭에서 'raw'를 클릭하시고 위의 이미지처럼 데이터를 입력하였습니다.
+
+클라이언트 예제처럼 배열 0~14까지 값을 쓴 겁니다. 이런 식으로 POST 요청을 작성하시고 GET 요청은 서버 IP와 리소스만 맞추시면 됩니다.
+
+![그림6](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_6.png?raw=true) ![그림7](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_7.png?raw=true) 
+
+위는 POST 요청을 한 뒤(Send) 서버 예제에서 설정한대로 반응상태 코드값이 확인됩니다. OK 사인은 200으로 맞추시는게 맞습니다. 예제는 차이를 보여주기 위해 200, 201, 202로 맞춘 내용이니까요.
+
+![그림8](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_8.png?raw=true) 수정전
+{:.figcaption} ![그림9](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2023-12-03/arduino_http_server_9.png?raw=true) 수정후 {:.figcaption}
+
+POST 요청 2개 다 했으니 이제 GET 요청을 보내서 값을 비교해보겠습니다.
+
