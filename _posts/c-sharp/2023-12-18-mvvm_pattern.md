@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    C# | MVVM 패턴이란 무엇인가
-category: c-lang
+category: c-sharp
 image:    /assets/img/blog/2023-12-18/thumnail_c-sharp.png
 ---
 
