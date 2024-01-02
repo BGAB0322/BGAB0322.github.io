@@ -64,11 +64,13 @@ MVVM 패턴을 적용해서 프로퍼티들과 이벤트들을 하나씩 분리�
 
 ## 공부에 도움되는 사이트 추천
 * 네이버 블로그
+
 👉[에로로님의 네이버 블로그(개인적으로 에로로님의 WPF 관련 글 정독 추천드립니다)](https://www.boost.org/users/download/)
 
 👉[골드러쉬님의 네이버 블로그(<WPF MVVM 일주일 만에 배우기> 번역하신 분입니다.)](https://blog.naver.com/goldrushing/221243250136)
 
 * Github 자료
+
 👉[tyeom님의 카카오톡 프로젝트-1](https://github.com/tyeom/WPFKakaoTalk)
 
 👉[tyeom님의 카카오톡 프로젝트-2](https://github.com/tyeom/WPFMusic)
