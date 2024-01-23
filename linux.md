@@ -1,10 +1,10 @@
 ---
 layout:  list
 type:    category
-title:   ARDUINO
-slug:    arduino
+title:   Linux
+slug:    linux
 sidebar: true
-order:   5
+order:   4
 description: >
-  All About Arduino
+  All About Linux OS
 ---

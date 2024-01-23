@@ -1,8 +1,8 @@
 ---
 layout:   post
 title:    Linux와 Window에서 Ctrl + C로 루프 종료 예제 / Linux signal / Window conio
-category: ros
-image:    /assets/img/blog/2023-07-17/thumnail_ros.png
+category: linux
+image:    /assets/img/blog/2023-07-17/thumnail_linux.png
 description: >
   루프 종료 예제
 ---
