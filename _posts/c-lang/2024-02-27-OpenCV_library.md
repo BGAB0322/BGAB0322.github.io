@@ -114,6 +114,8 @@ PATH=C:\Users\user\Downloads\opencv\build\x64\vc16\bin;%PATH%
 
 여기까지 오셨으면 모든 설정은 완료한 겁니다.
 
+## OpenCV 코드 include 추가해보기
+
 이제 다시 코드로 넘어가봅시다. include 헤더파일을 작성해 보면 opencv가 뜨는 걸 확인할 수 있구요.
 
 ![그림23](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2024-02-27/OpenCV_library_23.png?raw=true)
