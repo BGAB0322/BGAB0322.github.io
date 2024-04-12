@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    C# | DateTimePicker 사용하는 방법 Winform과 WPF
+title:    DateTimePicker 사용하는 방법 Winform과 WPF
 category: c-sharp
 image:    /assets/img/blog/2024-03-20/thumnail_c-sharp.png
 ---

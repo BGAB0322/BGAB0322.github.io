@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    C# | HTTP 메시지큐 예제(MSMQ)
+title:    Winform | HTTP 메시지큐 예제(MSMQ)
 category: c-sharp
 image:    /assets/img/blog/2024-04-11/thumnail_c-sharp.png
 ---
