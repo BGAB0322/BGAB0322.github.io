@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    Ubuntu | 시리얼 통신, 포트 연결 확인 및 고장 체크하기
-category: c-lang
-image:    /assets/img/blog/2023-02-14/thumnail_c-lang.png
+title:    시리얼 통신, 포트 연결 확인 및 고장 체크하기
+category: linux
+image:    /assets/img/blog/2023-02-14/thumnail_linux.png
 ---
 
 * this unordered seed list will be replaced by toc as unordered list
