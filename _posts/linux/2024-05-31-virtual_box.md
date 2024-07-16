@@ -29,21 +29,19 @@ WSL 대신에 Virtual Box도 한 번 활용해보시기 바랍니다.
 
 ### 1. Virtual Box 다운로드 및 설치
 
-<!-- ![그림1](https://github.com/BGAB0322/bgab.github.io/blob/main/assets/img/blog/2024-05-31/virtual_box_1.png?raw=true) -->
 ![버추얼박스 다운로드 웹페이지](/assets/img/blog/2024-05-31/virtual_box_1.png?raw=true)
 
 Virtual Box 다운로드 공식 홈페이지를 들어가시면 위와 같은 페이지를 보시게 될텐데 'Windows hosts'를 클릭하셔서 아래와 같이 윈도우에서 설치, 사용 가능한 파일을 다운로드 받도록 합니다.
 
 <p align="center"><img src="https://github.com/user-attachments/assets/1bcfb09b-68c8-4681-89aa-ec745b712275"></p>
-<!-- ![그림2](/assets/img/blog/2024-05-31/virtual_box_2.png?raw=true) -->
 
 다운로드 파일을 실행하셔서 설치를 진행해주도록 합니다.
 
-![버추얼박스 인스톨러 창](/assets/img/blog/2024-05-31/virtual_box_3.png?raw=true)
+<p align="center"><img src="https://github.com/user-attachments/assets/1744701b-343e-446d-8dfc-de025795a5c4"></p>
 
 저는 Default로 설정된 조건으로 계속해서 넘기고 설치를 진행했습니다.
 
-![버추얼박스 인스톨러 설치 진행 과정](/assets/img/blog/2024-05-31/virtual_box_4.png?raw=true){: width="100%" height="100%"}{: .center}
+![버추얼박스 인스톨러 설치 진행 과정](/assets/img/blog/2024-05-31/virtual_box_4.png?raw=true)
 
 설치를 마무리하고 실행하면 아래와 같이 Virtual Box Manager 실행창이 뜹니다. 
 
