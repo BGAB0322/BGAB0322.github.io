@@ -41,7 +41,7 @@ Virtual Box 다운로드 공식 홈페이지를 들어가시면 위와 같은 �
 
 저는 Default로 설정된 조건으로 계속해서 넘기고 설치를 진행했습니다.
 
-![버추얼박스 인스톨러 설치 진행 과정](/assets/img/blog/2024-05-31/virtual_box_4.png?raw=true)
+<p align="center"><img src="https://github.com/user-attachments/assets/40ba2c07-87d7-4599-88a6-2da8797743b8"></p>
 
 설치를 마무리하고 실행하면 아래와 같이 Virtual Box Manager 실행창이 뜹니다. 
 
