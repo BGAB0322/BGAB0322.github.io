@@ -1,5 +1,5 @@
 ---
-layout:  list
+layout:  grid
 type:    category
 title:   C# / WPF
 slug:    c-sharp

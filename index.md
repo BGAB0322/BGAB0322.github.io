@@ -8,9 +8,11 @@ Hi there👋I'm a Software Engineer using C++ and ROS.
 
 ## My Goal
 
-~~**Getting a job in Programming**~~
-**Robot Engineer's Direction**
-**An annual salary of 60 million KRW or more**
+~~**• Getting a job in Programming**~~
+
+**• Robot Engineer's Direction**
+
+**• An annual salary of 60 million KRW or more**
 
 ## 📈 GitHub Stats
 
