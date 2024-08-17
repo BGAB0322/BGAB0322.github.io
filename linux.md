@@ -1,5 +1,5 @@
 ---
-layout:  grid
+layout:  list
 type:    category
 title:   Linux
 slug:    linux

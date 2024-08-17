@@ -1,5 +1,5 @@
 ---
-layout:  grid
+layout:  list
 type:    category
 title:   C / C++
 slug:    c-lang
